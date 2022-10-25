@@ -1,0 +1,30 @@
+#immagine{
+    height: 500px;
+    width: 375px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+h1{
+    color: black;
+}
+
+.navbar{
+    position: fixed;
+    bottom: 10%;
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+      
+}
+/*I couldn't manage to change the image size, I'll keep trying tomorrow*/
+.first{
+    
+    height: 500px;
+    width: 375px;
+}
